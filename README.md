@@ -66,7 +66,7 @@ Este repositório contém o código CNC do programa `O0001`, desenvolvido para *
 
 ## 🗂️ Arquivo Disponível
 
-- [`O0001.nc`](./O0001.nc): Código-fonte completo em G-Code para faceamento da placa.
+- [`O0001.nc`](O0001.nc): Código-fonte completo em G-Code para faceamento da placa.
 
 ---
 
